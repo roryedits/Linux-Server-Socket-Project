@@ -1,0 +1,23 @@
+00:57:56: Received a "#JOIN" action from Agent "127.0.0.1"
+00:57:56: Responded to agent "127.0.0.1" with "$OK"
+00:57:58: Received a "#JOIN" action from Agent "127.0.0.1"
+00:57:58: Responded to agent "127.0.0.1" with "$ALREADY MEMBER"
+00:58:03: Received a "#LEAVE" action from Agent "127.0.0.1"
+00:58:03: Responded to agent "127.0.0.1" with "$OK"
+00:58:05: Received a "#LEAVE" action from Agent "127.0.0.1"
+00:58:05: Responded to agent "127.0.0.1" with "$NOT MEMBER"
+00:58:09: Received a "#LIST" action from Agent "127.0.0.1"
+00:58:09: No response is supplied to Agent "127.0.0.1" (agent not active)
+00:58:15: Received an "#LOG" action from Agent "127.0.0.1"
+00:58:15: No response is supplied to Agent "127.0.0.1" (agent not active)
+00:58:21: Received an Invalid action from Agent "127.0.0.1"
+00:58:21: No response is supplied to Agent "127.0.0.1" (agent not active)
+00:58:28: Received a "#JOIN" action from Agent "127.0.0.1"
+00:58:28: Responded to agent "127.0.0.1" with "$OK"
+00:58:31: Received an Invalid action from Agent "127.0.0.1"
+00:58:31: Responded to agent "127.0.0.1" with "$INVALID ACTION"
+00:58:37: Received a "#LIST" action from Agent "127.0.0.1"
+00:58:37: Responded with Agent list to Agent "127.0.0.1"
+00:58:43: Received an "#LOG" action from Agent "127.0.0.1"
+00:58:43: Responded to agent "127.0.0.1" with Log.txt
+00:59:09: Received a "#SHUTDOWN" action from Agent "127.0.0.1"
